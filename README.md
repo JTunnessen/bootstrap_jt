@@ -23,7 +23,7 @@ Or install it yourself as:
 ## Usage
 
 Add these lines to your application.js file in your assets/javascripts folder:
-
+```ruby
 //= require jquery
 //= require jquery_ujs
 //= require turbolinks
@@ -32,9 +32,9 @@ Add these lines to your application.js file in your assets/javascripts folder:
 //= require npm
 # The lines go above 'require_tree'
 //= require_tree .
-
+```
 Add these lines to your application.css file in your assets/stylesheets folder:
-
+```ruby
 # These two lines here
 *= require bootstrap-theme.min
 *= require bootstrap.min
@@ -42,7 +42,7 @@ Add these lines to your application.css file in your assets/stylesheets folder:
 *= require_tree .
 *= require_self
 */
-
+```
 ## Development
 
 After checking out the repo, run `bin/setup` to install dependencies. Then, run `bin/console` for an interactive prompt that will allow you to experiment.
