@@ -1,5 +1,7 @@
 # BootstrapJt
 
+[![Gem Version](https://badge.fury.io/rb/bootstrap_jt.svg)](http://badge.fury.io/rb/bootstrap_jt)
+
 Your Bootstrap 3 resource. This gem provides all the CSS and javascript assets needed to integrate Bootstrap into your web app to provide your Responsive Web Design (mobile-friendly design) experience. 
 
 If you haven't heard of [Bootstrap](http://getbootstrap.com). This is a great framework covering your HTML, CSS, and javascript.
